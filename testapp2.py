@@ -5,4 +5,4 @@ df = pd.DataFrame({
   'second column': ["cat", 20, 3, 40]
 })
 
-df
+st.dataframe(df)
